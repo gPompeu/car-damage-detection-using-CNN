@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 
 # Root directory of the project
 # ROOT_DIR = 'C:/Users/Sourish/Mask_RCNN/'
-ROOT_DIR = os.getcwd() + '/'
+ROOT_DIR = os.getcwd() + '//'
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
